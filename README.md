@@ -2,3 +2,6 @@
 Testing the setup in RStudio
 
 hello, I have made some changes to this readme
+
+# A New Section
+This is a new section
